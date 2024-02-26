@@ -52,5 +52,11 @@ public class PedidoVendaBuilder {
     this.instancia.setCliente(cliente);
   }
 
+  public PedidoVendaBuilderValido comNumero(String numero) {
+    this.instancia.setNumero(numero);
+    return new PedidoVendaBuilderValido(instancia);
+  }
+
+
 
 }

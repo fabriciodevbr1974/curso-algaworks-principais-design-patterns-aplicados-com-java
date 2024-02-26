@@ -42,9 +42,10 @@ class PedidoVendaTest {
   @Test
   public void deveCalcularValorTotalPedidoParaClienteVipBuilder() {
     PedidoVenda pedidoVenda = new PedidoVendaBuilder()
-            .comClienteVip("Fabricio")
+            .comClienteVip("João Silva")
             .comItem("Calculadora", 2, BigDecimal.valueOf(200))
             .comItem("Mochila", 1, BigDecimal.valueOf(200))
+            .comNumero("02020")
             .construir();
 
     BigDecimal valorTotal = pedidoVenda.getValorTotal();
