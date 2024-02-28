@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b6aebd61-5dee-418f-977f-5319d53a0a58" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algaworks/model/builder/PedidoVendaBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algaworks/model/builder/PedidoVendaBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/algaworks/model/PedidoVendaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/algaworks/model/PedidoVendaTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/fabri",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
